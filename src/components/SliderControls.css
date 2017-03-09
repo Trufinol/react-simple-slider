@@ -1,0 +1,12 @@
+.buttons-wrapper {
+	margin-top: 10px;
+}
+
+.slide-button {
+	background-color: #007AFF;
+	color: #fff;
+	border: 1px solid  #333;
+	padding: 15px;
+	outline: none;
+	margin: 2px;
+}

@@ -1,0 +1,23 @@
+.slider-item {
+	display: inline-block;
+	text-align: right;
+	max-width: 640px;
+	width: 100%;
+	height: 480px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.slider-item--caption {
+	padding: 10px;
+	display: inline-block;
+	background-color: #333;
+	border-bottom: 1px solid #fefefe;
+	border-left: 1px solid #fefefe;
+}
+
+.slider-item--text {
+	font-size: 18px;
+	line-height: 1.2;
+	color: #fff;
+}
